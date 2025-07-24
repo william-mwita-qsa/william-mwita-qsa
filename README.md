@@ -29,5 +29,5 @@
 ## 🌍 Let's Connect  
 📍 Nairobi, Kenya  
 📧 william.mwita.qsa@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/william-mwita-qsa
+🔗 [LinkedIn] https://www.linkedin.com/in/williammwitaqsa
 
