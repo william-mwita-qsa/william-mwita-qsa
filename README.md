@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm William Mwita
 
-<!--
-**william-mwita-qsa/william-mwita-qsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Quantitative Systems Analyst** | **FinTech Analytics**  
+📊 I design and analyze financial systems using statistical intelligence and systems thinking.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I Do  
+- Build **credit risk scoring models** and **default prediction algorithms**  
+- Analyze FinTech user patterns using real-world and synthetic data  
+- Apply **Bayesian statistics** to financial decision-making under uncertainty  
+- Design scalable analytical dashboards for reporting and insights
+
+---
+
+## 🚀 Current Projects  
+- `fintech-risk-models` – Logistic regression, scorecards, risk simulations  
+- `qsa-learning-journal` – My study vault: code, case studies, models  
+- `africa-data-sandbox` – Cleaned public data for African FinTech exploration
+
+---
+
+## 🛠️ Skills & Tools  
+`Python` | `SQL` | `Excel` | `Power BI` | `Scikit-learn` | `Pandas`  
+`Bayesian Modeling` | `Credit Analytics` | `Git` | `Markdown`
+
+---
+
+## 🌍 Let's Connect  
+📍 Nairobi, Kenya  
+📧 william.mwita.qsa@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/william-mwita-qsa
+
